@@ -1,0 +1,29 @@
+[33mcommit fd21292bc7ccbcf461ad39c4723f6714d28ca247[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: venkataranjit <venkataranjit@live.com>
+Date:   Sat Aug 17 23:18:59 2024 +0530
+
+    This is 2nd commit
+
+[1mdiff --git a/css/index.css b/css/index.css[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ce08e64[m
+[1m--- /dev/null[m
+[1m+++ b/css/index.css[m
+[36m@@ -0,0 +1,4 @@[m
+[32m+[m[32m*{[m
+[32m+[m[32m    margin: 0px;[m
+[32m+[m[32m    padding: 0px;[m
+[32m+[m[32m}[m
+\ No newline at end of file[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 5b73562..647e89b 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -7,5 +7,6 @@[m
+ </head>[m
+ <body>[m
+     <h1>1st line</h1>[m
+[32m+[m[32m    <h2>2nd Line</h2>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
